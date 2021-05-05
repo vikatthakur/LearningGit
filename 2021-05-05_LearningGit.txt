@@ -1,0 +1,235 @@
+Thakur@Thakur-PC MINGW64 /
+$
+
+Thakur@Thakur-PC MINGW64 /
+$ git --version
+git version 2.29.1.windows.1
+
+Thakur@Thakur-PC MINGW64 /
+$ ls
+bin/  dev/  git-bash.exe*  LICENSE.txt  proc/              tmp/          unins000.exe*  usr/
+cmd/  etc/  git-cmd.exe*   mingw64/     ReleaseNotes.html  unins000.dat  unins000.msg
+
+Thakur@Thakur-PC MINGW64 /
+$ pwd
+/
+
+Thakur@Thakur-PC MINGW64 /
+$ git config --global user.name "vikat thakur"
+
+Thakur@Thakur-PC MINGW64 /
+$ git config --global user.email vikatthakur007@gmail.com
+
+Thakur@Thakur-PC MINGW64 /
+$ git config --global core.editor "code --wait"
+
+Thakur@Thakur-PC MINGW64 /
+$ git config --global -e
+
+Thakur@Thakur-PC MINGW64 /
+$ git config --global core.autocrlf true
+
+Thakur@Thakur-PC MINGW64 /
+$ git config --help
+
+Thakur@Thakur-PC MINGW64 /
+$ echo vikat
+vikat
+
+Thakur@Thakur-PC MINGW64 /
+$ pwd
+/
+
+Thakur@Thakur-PC MINGW64 /
+$ cd c:
+
+Thakur@Thakur-PC MINGW64 /c
+$ ls
+'$GetCurrent'/                          'file understanding'/  'Program Files'/
+'$Recycle.Bin'/                          found.000/            'Program Files (x86)'/
+'$Windows.~WS'/                          found.001/             ProgramData/
+'$WINRE_BACKUP_PARTITION.MARKER'         found.002/             Python/
+'$WinREAgent'/                           found.003/             Recovery/
+ 82ace7d6-0197-474d-bf4b-a2043e72329b/   found.004/             SLAGH
+ adb/                                    found.005/             SmartKeys/
+ AdwCleaner/                             found.006/             Spark/
+ AMTAG.BIN                               found.007/             swapfile.sys
+ Android/                                Games/                 SYSTAG.BIN
+ AVScanner.ini                           grldr                  system/
+ Boot/                                   grub2/                'System Volume Information'/
+ bootmgr                                 Hadoop/                temp/
+ BOOTNXT                                 hiberfil.sys           ubnldr
+ BOOTSECT.BAK                            hsrv.txt               ubnldr.exe*
+ bootTel.dat                             install/               ubnldr.mbr
+'Documents and Settings'@                Intel/                 unetbtin.exe*
+ DRIVERS/                                META-INF/              Users/
+ DumpStack.log                           OneDriveTemp/          vboxapi.txt
+ DumpStack.log.tmp                       pagefile.sys           Windows/
+ eclipse/                                PerfLogs/              Windows10Upgrade/
+ ESD/                                    phoenixldr
+
+Thakur@Thakur-PC MINGW64 /c
+$ pwd
+/c
+
+Thakur@Thakur-PC MINGW64 /c
+$ ls C:\Users\Thakur\Desktop
+ls: cannot access 'C:UsersThakurDesktop': No such file or directory
+
+Thakur@Thakur-PC MINGW64 /c
+$ pwd
+/c
+
+Thakur@Thakur-PC MINGW64 /c
+$ cd ../
+
+Thakur@Thakur-PC MINGW64 /
+$ ls
+bin/  dev/  git-bash.exe*  LICENSE.txt  proc/              tmp/          unins000.exe*  usr/
+cmd/  etc/  git-cmd.exe*   mingw64/     ReleaseNotes.html  unins000.dat  unins000.msg
+
+Thakur@Thakur-PC MINGW64 /
+$ cd C/users
+
+Thakur@Thakur-PC MINGW64 /C/users
+$ ls
+ Administrator/   Default/         Default.migrated/   desktop.ini  'HomeGroupUser$'/   Thakur/
+'All Users'@     'Default User'@   DefaultAccount/     Guest/        Public/            WDAGUtilityAccount/
+
+Thakur@Thakur-PC MINGW64 /C/users
+$ cd Thakur/Desktop/
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop
+$ ls
+'~$D Details.docx'                             'Pensione Flolder Aai.Prakash,Uttam'/
+'~$D_Form.docx'                                'Prakash Pension From- August-2015.xlsx'
+'~$oject letter barc.docx'                      ProjectDesign/
+'~$rviceAgreementfor100StampPaperExport.docx'  'Ravalnath Prasanna.pdf'
+'~$tam  Govt House Report.docx'                'Ravalnath Prasanna-converted.docx'
+'~$valnath Prasanna-converted.docx'             ResumeUttam.docx
+'Aai.Prakash,Uttam Pension File'/               ResumeUttam.pdf
+'Adidas Advantage.jpg'                          Steam.lnk*
+'DCA key.txt'                                  'Tarjani From16.zip'
+ desktop.ini                                   'tarjani.thakur - CV.docx'
+ Explorer++.exe*                               'This PC - Shortcut.lnk'*
+'Formate  Folder.docx'                         'Tor Browser'/
+'Laxmi  Pension Start  May-2001.xlsx'          'Trajani From16'/
+'NEW CV OF U S THAKUR.docx - Shortcut.lnk'*    'Uttam Pension Start Oct-2018.xlsx'
+'Nike Air Max 720 (OBJ).jpg'                   'Visual Studio Code.lnk'*
+ OnlineShopping/                               'Windows 10 Update Assistant.lnk'*
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop
+$ mkdir LearningGit
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop
+$ cd LearningGit/
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit
+$ pwd
+/C/users/Thakur/Desktop/LearningGit
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit
+$ ls
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit
+$ ls -a
+./  ../
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit
+$ git init
+Initialized empty Git repository in C:/Users/Thakur/Desktop/LearningGit/.git/
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ ls
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ ls -a
+./  ../  .git/
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ open .git/
+bash: open: command not found
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ ls
+e
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ echo hello > file1.txt
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ echo HELLO > file2.txt
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ ls
+file1.txt  file2.txt
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file1.txt
+        file2.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ git add *.txt
+warning: LF will be replaced by CRLF in file1.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in file2.txt.
+The file will have its original line endings in your working directory
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+        new file:   file2.txt
+
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ echo there >> file1.txt
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+        new file:   file2.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   file1.txt
+
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ git add file1.txt
+warning: LF will be replaced by CRLF in file1.txt.
+The file will have its original line endings in your working directory
+
+Thakur@Thakur-PC MINGW64 /C/users/Thakur/Desktop/LearningGit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+        new file:   file2.txt
+
+
+
