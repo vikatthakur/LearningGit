@@ -53,3 +53,15 @@ git merge <branch_name>
 #deleting the branch
 git branch -d <branch_name>
 
+#show command
+git show [option]
+
+#git tag command
+git tag <tag_name>
+git tag -a <annotation> -m <message>
+
+
+
+
+
+
