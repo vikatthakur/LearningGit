@@ -1,0 +1,5 @@
+#Gives the list of tracked fle by git
+git ls-fiiles
+
+#git express commit command will add the file in staging area and then commit them automatically
+git commit -a
