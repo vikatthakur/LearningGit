@@ -28,3 +28,14 @@ git add -u
 
 #reflecting the external changes
 git add -A
+
+###############################################################################################################################
+
+#Advaanced git command
+
+#finding the changes
+git diff <hash1> <hash1/HEAD>
+
+#Will give the changes from the current directory
+git diff 
+
