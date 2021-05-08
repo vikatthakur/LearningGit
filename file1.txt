@@ -1,4 +1,4 @@
 hello
 there
-updated
+conflict update
 new feature added
