@@ -34,8 +34,22 @@ git add -A
 #Advaanced git command
 
 #finding the changes
-git diff <hash1> <hash1/HEAD>
+git diff <commit_id> <commit_id/HEAD>
 
 #Will give the changes from the current directory
 git diff 
+
+#Creating the new branch
+git checkout -b <branch_name>
+
+#changing to the branch
+git chekout master
+
+##NOTE: Remember to before changing the branches to commit all the previous changes
+
+#Merging the branch(fast-forward)
+git merge <branch_name>
+
+#deleting the branch
+git branch -d <branch_name>
 
