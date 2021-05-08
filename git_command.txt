@@ -3,3 +3,23 @@ git ls-fiiles
 
 #git express commit command will add the file in staging area and then commit them automatically
 git commit -a
+
+#Unstaging the file
+git reset HEAD <file_name>
+
+#checkout the file it will give the last commited version of the file
+git checkout -- <file_name>
+
+#log command for all the commits made for all the files in repo
+git log --oneline --graph --decorate --all
+
+#creating an alias for long command
+git confing --global alias.<alias_name> "log --oneline --graph --decorate --all"
+
+#listing the confing
+git config --global --list
+
+#git rm and mv command it will track the changes
+git rm <file_name>
+git mv <file_name>
+
