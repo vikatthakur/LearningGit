@@ -83,11 +83,31 @@ git reset <commit_id> --hard
 
 #Adding the remote directory to the git
 git remote -v
-git remote add <name_dir> repo_url
+git remote add origin repo_url
+
+#cloning the github repo
+git clone <repo_url> <local_file_name>
 
 #generating ssh with github
 ssh-keygen -t rsa -C "gmail"
 ssh -T git@github.com
+
+#push the changes to github repo
+git push origin master or git push
+
+#fetch the github changes to the local
+git fetch
+
+#merge the changes from remote and local
+git pull
+
+#update the repository on github and adding the changes to the git
+git remote set-url origin repo_url
+
+#check details about the remote repo
+git remote show <branch_name>
+
+
 
 
 
