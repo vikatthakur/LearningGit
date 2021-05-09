@@ -61,6 +61,17 @@ git tag <tag_name>
 git tag -a <annotation> -m <message>
 
 
+#Stashing it will save the current changes in branch in the stash and will give the clean working directory
+git stash
+
+#pop stash
+git stash pop
+
+
+
+
+
+
 
 
 
