@@ -74,10 +74,10 @@ git stash pop
 git reset <commit_id> --soft 
 
 #It will point the head and also do the changes in the staging area
-git rest <commt_id> --mixed
+git reset <commt_id> --mixed
 
 #It will make the most changes and provide you the clean directory that is pointing to the passed commit_id
-git rest <commit_id> --hard
+git reset <commit_id> --hard
 
 
 
